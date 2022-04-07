@@ -1,7 +1,8 @@
-# Assignment: Create A Multi-Service Multi-Node Web App
+# Create A Multi-Service Multi-Node Web App
 
 ## Goal: create networks, volumes, and services for a web-based "cats vs. dogs" voting app
 
+### Note : This file contains commands after every services
 Here is a basic diagram of how the 5 services will work:
 
 ![diagram](./architecture.png)
